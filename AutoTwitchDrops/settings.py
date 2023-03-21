@@ -19,5 +19,6 @@ CHROME_PROFILE_PATH:
 """
 
 STREAMER_TEXT_FILE: str = "streamers.txt"
-BROWSER_REFRESH_TIME: int = 30 * 60
-CHROME_PROFILE_PATH: str = r"your_profile_path"
+BROWSER_REFRESH_TIME: int = 10 * 60
+CHROME_PROFILE_PATH: str = r""
+CHROME_PROFILE_NAME: str = r""
